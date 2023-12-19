@@ -2,12 +2,11 @@
 
 Previsão de vendas para uma empresa de medicamentos da europa
 
+![Comparativo](img/taxi.PNG)
+
 ## 1.	Problema de negócio
 A indústria de táxis está evoluindo rapidamente. Novos concorrentes e tecnologias estão mudando a forma como os serviços de táxi tradicionais fazem negócios. Embora esta evolução tenha criado novas eficiências, também criou novos problemas. 
 	Para melhorar a eficiência dos sistemas eletrônicos de despacho de táxis é importante ser capaz de prever o destino final de um táxi enquanto este está em serviço. Particularmente durante períodos de alta demanda, muitas vezes há um táxi cuja corrida atual terminará próximo ou exatamente no local de retirada solicitado por um novo passageiro. Se um despachante soubesse aproximadamente onde seus motoristas de táxi terminariam suas viagens atuais, ele seria capaz de identificar qual táxi atribuir a cada solicitação de coleta.
-
-![image](https://github.com/leonardonassibfonseca/taxi_trajectory/assets/141882326/380fb36f-3094-4dbf-b9d0-e24110bcfb81)
-
 
 ## 2.	Objetivo
 O desafio é criar um modelo capaz de prever as coordenadas WGS84 do destino final com base nos dados disponíveis, melhorando assim a capacidade de despacho dos serviços de táxi.
