@@ -44,12 +44,12 @@ O algoritmo de machine learning escolhido foi o XGBRegressor.
  
 ![Comparativo](img/escolha_algoritmo.JPG)
  
-## 8.	Conclusão
+## 7.	Conclusão
 Através das etapas anteriores, cumprimos com sucesso o desafio proposto, desenvolvendo um algoritmo de machine learning que demonstrou eficácia satisfatória na previsão da posição final dos motoristas de táxi com base nas coordenadas WGS84 disponíveis.
 
 ![Comparativo](img/predicoes.JPG)
 
-## 9.	Próximos passos
+## 8.	Próximos passos
 •	Testar outros algoritmos de machine learning;
 •	Buscar novas variáveis para definir melhor o comportamento dos clientes;
 •	Disponibilizar este modelo para consulta via API.
