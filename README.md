@@ -36,8 +36,6 @@ Passo 8 - Ajuste dos hiperparâmetros: Com a definição do melhor modelo de mac
 
 Passo 9 - Performance do negócio: Nesta etapa, o termo "performance do negócio" refere-se ao impacto que os modelos e análises têm nos resultados e metas de uma organização, pois busca garantir que as soluções propostas realmente tragam benefícios tangíveis para a empresa.
 
-Passo 10 - Modelo em produção: Nesta etapa final, o melhor modelo treinado é implantado e usado em um ambiente operacional do mundo real. O objetivo principal deste passo de colocar um modelo em produção é transformar o trabalho de desenvolvimento de modelos em um sistema que pode fornecer valor contínuo e automático.
-
 ## 5.	Aplicação do modelo de machine learning
 Foram feitos testes com vários algoritmos de machine learning, utilizando a técnica de cross-validation e ajuste fino dos parâmetros.
 
@@ -45,14 +43,11 @@ Foram feitos testes com vários algoritmos de machine learning, utilizando a té
 O algoritmo de machine learning escolhido foi o XGBRegressor.
  
 ![Comparativo](img/escolha_algoritmo.JPG)
-
-## 7	Resultado do negócio
-Conforme mostrado na figura abaixo, foram adicionados mais 2 cenários além do predito para as próximas 6 semanas em todas as lojas Rossmann, ou seja, um cenário pessimista e outro otimista, com isso o gestou conseguirá tomar a melhor decisão frente aos valores encontrados.
  
- ![Comparativo](img/predicoes.JPG)
-
 ## 8.	Conclusão
 Através das etapas anteriores, cumprimos com sucesso o desafio proposto, desenvolvendo um algoritmo de machine learning que demonstrou eficácia satisfatória na previsão da posição final dos motoristas de táxi com base nas coordenadas WGS84 disponíveis.
+
+![Comparativo](img/predicoes.JPG)
 
 ## 9.	Próximos passos
 •	Testar outros algoritmos de machine learning;
