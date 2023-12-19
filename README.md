@@ -2,7 +2,7 @@
 
 Previsão de vendas para uma empresa de medicamentos da europa
 
-![Comparativo](img/taxi.PNG)
+![Comparativo](img/taxi.png)
 
 ## 1.	Problema de negócio
 A indústria de táxis está evoluindo rapidamente. Novos concorrentes e tecnologias estão mudando a forma como os serviços de táxi tradicionais fazem negócios. Embora esta evolução tenha criado novas eficiências, também criou novos problemas. 
